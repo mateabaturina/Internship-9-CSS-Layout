@@ -35,8 +35,28 @@
 }
 
 .firstSectionHeaderMiddleText {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: max-content;
-    margin-right: 50px;   
+    margin-right: 35px;   
+}
+
+.arrow {
+    border: solid #a4abb4;
+    border-width: 0 2px 2px 0;
+    border-radius: 2px;
+    margin-left: 6px;
+    margin-bottom: 2px;
+    display: inline-block;
+    padding: 4px;
+}
+  
+  
+  
+.down {
+transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
 }
 
 .firstSectionHeaderMiddleTextLink {
