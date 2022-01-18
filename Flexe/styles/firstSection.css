@@ -3,7 +3,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
     line-height: 10px;
     font-family: Lausanne,Helvetica Neue,arial,sans-serif;
     font-weight: 30;
@@ -29,7 +28,7 @@
     justify-content: space-between;
     align-items: center;
     color: #a4abb4;  
-    margin-right: 100px; 
+    margin-right: 85px; 
     margin-top: 40px;
 }
 
