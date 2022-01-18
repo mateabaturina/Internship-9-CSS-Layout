@@ -201,15 +201,18 @@
     align-self:flex-start;
 }
 
-.secondSectionHeaderBottomRightBoxBox {
+.secondSectionHeaderBottomRightLinkBox {
     background-color: #373a25;
     align-self:flex-start;
     width: 642.600px;
     height: 364.674px;
     padding-left: 40px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .secondSectionHeaderBottomRightBoxBoxFirstText {
+    padding-top: 20px;
     font-size: 15px;
     font-weight: lighter;
 }
@@ -217,10 +220,21 @@
 .secondSectionHeaderBottomRightBoxBoxSecondText {
     font-size: 38px;
     font-weight: lighter;
+    padding-bottom: 100px;  
 }
 
 .secondSectionHeaderBottomRightBoxBoxThirdText {
     font-size: 20px;
     font-weight: lighter;
+}
+
+.secondSectionHeaderBottomRightBoxThirdTextBox {
+    background-color: #373a25;
+    align-self:flex-start;
+    width: fit-content;
+    height: 25px;
+    border-bottom-color: #ffffff;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
 }
 
