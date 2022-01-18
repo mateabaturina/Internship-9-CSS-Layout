@@ -82,7 +82,8 @@
 }
 
 .secondSectionHeaderBottomLeftFirstBox {
-    padding-left: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
 }
 
 .secondSectionHeaderBottomLeftBoxFirstText {
@@ -122,5 +123,64 @@
     padding-bottom: 5px;
 }
 
+.secondSectionHeaderBottomLeftSecondBox {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 490px;
+    padding-bottom: 110px;
+}
 
+.secondSectionHeaderBottomLeftSecondBoxStyle {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-direction: column;
+    border-left-color: #b07724;
+    border-left-width: 1px;
+    border-left-style: solid;
+    padding-left: 30px;
+    height: max-content;
+}
+
+.secondSectionHeaderBottomLeftSecondBoxNumbers {
+    font-size: 60px;
+    font-weight: lighter;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+
+.secondSectionHeaderBottomLeftSecondBoxText {
+    font-size: 16px;
+    font-weight: lighter;
+    width: 205px;
+    line-height: 22px;
+}
+
+.secondSectionHeaderBottomLeftSecondBoxLeftBox {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-direction: column;
+    height: max-content;
+    padding-right: 40px;
+}
+
+.secondSectionHeaderBottomLeftSecondBoxRightBox {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-direction: column;
+    height: max-content;
+}
+
+.secondSectionHeaderBottomLeftSecondBoxSourceText {
+    padding-left: 30px;
+    width: 300px;
+    color: #ffffff;
+    font-size: 12px;
+    font-style: italic;
+}
 
