@@ -75,10 +75,11 @@
     align-items:flex-start; 
     flex-direction: column;
     font-family: Lausanne,Helvetica Neue,arial,sans-serif;
-    width: 100%;
-    min-width: 1500px;
-    padding-top: 130px;
+    width: 50%;
+    min-width: 710px;
     padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 120px;
 }
 
 .secondSectionHeaderBottomLeftFirstBox {
@@ -124,11 +125,10 @@
 }
 
 .secondSectionHeaderBottomLeftSecondBox {
-    padding-bottom: 10px;
     display: flex;
     justify-content: space-between;
     align-items:flex-start;
-    width: 490px;
+    width: 400px;
     padding-bottom: 110px;
 }
 
@@ -182,5 +182,45 @@
     color: #ffffff;
     font-size: 12px;
     font-style: italic;
+}
+
+.secondSectionHeaderBottomRightBox {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end; 
+    flex-direction: column;
+    font-family: Lausanne,Helvetica Neue,arial,sans-serif;
+    width: 50%;
+    min-width: 750px;
+    padding-top: 15px;
+}
+
+.secondSectionHeaderBottomRightBoximage {
+    height: 364.674px;
+    width: 682.600px;
+    align-self:flex-start;
+}
+
+.secondSectionHeaderBottomRightBoxBox {
+    background-color: #373a25;
+    align-self:flex-start;
+    width: 642.600px;
+    height: 364.674px;
+    padding-left: 40px;
+}
+
+.secondSectionHeaderBottomRightBoxBoxFirstText {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.secondSectionHeaderBottomRightBoxBoxSecondText {
+    font-size: 38px;
+    font-weight: lighter;
+}
+
+.secondSectionHeaderBottomRightBoxBoxThirdText {
+    font-size: 20px;
+    font-weight: lighter;
 }
 
