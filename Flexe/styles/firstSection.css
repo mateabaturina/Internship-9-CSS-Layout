@@ -8,6 +8,7 @@
     font-weight: 30;
     font-size: 10px;
     padding-bottom: 40px;
+    width: max-content;
 }
 
 .image {
@@ -15,7 +16,7 @@
     width: 110px;
     margin-top: 30px;
     margin-left: 40px;
-    margin-right: 220px;
+    margin-right: 270px;
     align-self: start;
 }
 
@@ -28,11 +29,12 @@
     justify-content: space-between;
     align-items: center;
     color: #a4abb4;  
-    margin-right: 85px; 
+    margin-right: 108px; 
     margin-top: 40px;
 }
 
 .firstSectionHeaderMiddleText {
+    width: max-content;
     margin-right: 50px;   
 }
 
@@ -50,11 +52,12 @@
 }
 
 .firstSectionHeaderRightLeftBox {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 16px;
+    padding-right: 16px;
     background-color: #ffffff;
     margin-right: 5px;
     border-radius: 15px;
+    width: max-content;
 }
 
 .firstSectionHeaderRightRightBox {
@@ -65,6 +68,7 @@
     border-color: #ffffff;
     border-width: 1px;
     border-style: solid;
+    width: max-content;
 }
 
 .firstSectionHeaderRightTextLink {

@@ -5,6 +5,7 @@
     align-items: center; 
     padding-top: 50px;
     padding-bottom: 20px;
+    width: max-content;
 }
 
 .secondSectionHeaderTop {
@@ -17,25 +18,36 @@
     font-family: Lausanne,Helvetica Neue,arial,sans-serif;
     font-weight: lighter;
     font-size: 19px;
+    width: max-content;
 }
 
 .secondSectionHeaderTopFirstBox {
-    padding-left: 85px;
-    padding-right: 85px;
+    padding-left: 75px;
+    padding-right: 75px;
     background-color: #191919;
     color: #b07724;
     border-bottom-color: #b07724;
     border-bottom-width: 1px;
     border-bottom-style: solid;
+    width: max-content;
 }
 
 .secondSectionHeaderTopBox {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 100.6px;
+    padding-right: 100.6px;
     background-color: #191919;
     color: #a4abb4;
     border-bottom-color: #a4abb4;
     border-bottom-width: 1px;
     border-bottom-style: solid;
+    width: max-content;
+}
+
+.secondSectionHeaderBottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    font-family: Lausanne,Helvetica Neue,arial,sans-serif;
+    width: max-content;
 }
 
