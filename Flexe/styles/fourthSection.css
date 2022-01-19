@@ -1,0 +1,110 @@
+.fourthSectionHeader {
+    background-color: #191919;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    font-family: Reckless,Georgia,Times,Times New Roman,serif;
+    font-weight: lighter;
+    color: #ffffff;
+    width: 100%;
+    min-width: 1500px;
+    padding-bottom: 150px;
+}
+
+.fourthSectionLeftBox {
+    display: flex;
+    align-items:flex-start; 
+    width: 50%;
+    min-width: 500px;
+    padding-left: 70px;
+    padding-bottom: 481.23px; 
+}
+
+.fourthSectionLeftBoxText {
+    width: 540px;
+    font-size: 45px;
+    font-weight: lighter;
+    margin-top: 0px;
+}
+
+.fourthSectionRightBox {
+    display: flex;
+    align-items:center; 
+    flex-direction: column;
+    width: 50%;
+    min-width: 750px; 
+    padding-top: 25px;
+    padding-left: 0px;
+}
+
+.fourthSectionRightBoxFirstBox {
+    display: flex;
+    align-items:flex-end; 
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #595f69;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #595f69;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-right: 40px;
+}
+
+.fourthSectionRightBoxOtherBox {
+    display: flex;
+    align-items:flex-end; 
+    justify-content: space-between;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #595f69;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-right: 40px;
+}
+
+.fourthSectionRightBoximage {
+    margin-right: 0px;
+    height: 98px;
+    width: 98px;
+    align-self:center;
+    padding-right: 60px;
+    
+}
+
+.fourthSectionRightBoxInnerBox {
+    display: flex;
+    align-items:flex-start; 
+    flex-direction: column;
+}
+
+.fourthSectionRightBoxInnerBoxText {
+    width: 450px;
+    font-size: 28px;
+    font-weight: lighter;
+}
+
+.fourthSectionRightBoxLinkBox {
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #cf8c29;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    border-radius: 30px;
+    width: max-content;
+    height: 15px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+.fourthSectionRightBoxLinkBoxText {
+    font-family: Lausanne,Helvetica Neue,arial,sans-serif;
+    font-size: 16px;
+    color: #191919;
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
